@@ -1,5 +1,5 @@
 ---
-title: "Markdown Syntax & Lorem Ipsum"
+title: "Lorem Ipsum"
 date: 2026-01-20 15:00:00 -0600
 categories: [Examples, Markdown]
 tags: [demo, practice, lorem ipsum]
